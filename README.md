@@ -3,7 +3,7 @@
 <h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
 
 <p align="center">Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.</p>
-
+ 
 <hr>
   
 ## How to Activate Windows / Office / Extended Security Updates (ESU)?
